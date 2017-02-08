@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Security
 
 public enum APNServiceErrorReason:String,CustomStringConvertible {
     case PayloadEmpty = "PayloadEmpty"
